@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "descripcion": "Pasear",
+    "estado": "Pendiente"
+  },
+  {
+    "id": 2,
+    "descripcion": "Comer",
+    "estado": "Pendiente"
+  }
+]
